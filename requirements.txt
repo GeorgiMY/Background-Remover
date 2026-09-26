@@ -1,2 +1,2 @@
-rembg
-pillow
+rembg[cpu]
+Pillow
